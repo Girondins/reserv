@@ -21,6 +21,7 @@ public class ChatClient implements Client{
 	private ClientController ClientController;
 	private Socket socket;
 	private ObjectOutputStream oos;
+    //asjfoasfasf
 	private ObjectInputStream ois;
 	private String userName;
 	private User user;
