@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
-	/**
+	/**asdasdasdasd
 	 * Klass för användare
 	 * @author Stefan Tran
 	 *
