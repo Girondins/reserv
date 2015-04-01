@@ -20,6 +20,7 @@ import reserv.User;
 public class ChatClient implements Client{
 	private ClientController ClientController;
 	private Socket socket;
+    Alexander Siech
 	private ObjectOutputStream oos;
     //asjfoasfasf
 	private ObjectInputStream ois;
